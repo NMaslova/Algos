@@ -1,0 +1,11 @@
+NP-COMPLETE PROBLEMS: We've now seen clever and efficient algorithms for a dazzling variety of computational problems. Sadly, many natural and important problems do not seem to admit polynomial-time algorithms. We discuss NP-completeness, which formalizes this seeming computational intractability; a simple recipe for proving that a problem is NP-complete; the famous P vs. NP question; and an overview of algorithmic approaches to NP-complete problems.
+
+BEATING BRUTE-FORCE SEARCH : Suppose we want to solve an NP-complete problem exactly. Can we do better than brute-force search? Happily, many NP-complete problems admit search algorithms that are, while exponential-time, faster than brute-force search. We look at two case studies: a backtracking algorithm for the Vertex Cover problem, and a dynamic programming algorithm for the Traveling Salesman Problem.
+
+HOMEWORK #2: The second problem set and programming assignment will reinforce your understanding of NP-complete problems, reductions, and the dynamic programming algorithm for the traveling salesman problem.
+
+SUGGESTED READINGS FOR WEEK 2:
+
+CLRS Chapter 34
+DPV Section 8.1, 8.2, 9.1
+KT Sections 8.1-8.4, 8.10, 10.1, 10.2

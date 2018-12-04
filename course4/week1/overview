@@ -1,0 +1,20 @@
+WELCOME: Welcome to Part 4 of the Algorithms Specialization: Shortest-Paths Revisited, NP-Complete Problems and What To Do About Them! Like the previous three parts, the course will have four weeks of lectures and assignments, followed by a final exam. Here are the highlights of the course's first week.
+
+THE BELLMAN-FORD ALGORITHM: The Bellman-Ford algorithm solves the single-source shortest-path problem. While slower than Dijkstra's algorithm, it accommodates negative edge lengths and is also better suited for distributed implementations. We discuss the basic algorithm and various optimizations. Two optional videos outline some of the key ideas needed to turn the Bellman-Ford algorithm into a practical Internet routing protocol.
+
+ALL-PAIRS SHORTEST PATHS: Why should we be content with computing shortest paths merely from a single source vertex? We can compute all-pairs shortest paths by running a single-source shortest-path algorithm once per vertex, but in many situations we can do better. Exhibits A and B: the algorithms of Floyd-Warshall and Johnson.
+
+HOMEWORK #1: The first problem set and programming assignment will reinforce your understanding of shortest paths and the dynamic programming algorithms that compute them.
+
+VIDEOS AND SLIDES: A reminder that videos can be streamed or downloaded and watched offline (recommended for commutes, etc.). We are also providing PDF lecture slides (typed versions of what's written in the lecture videos), as well as subtitle files (in English and in some cases other languages as well). And if you find yourself wishing that I spoke more quickly or more slowly, note that you can adjust the video speed to accommodate your preferred pace.
+
+DISCUSSION FORUMS: Discussion forums play an absolutely crucial role in massive online courses. If you have trouble understanding a lecture or completing an assignment, you should turn to the forums for help. After you've mastered the lectures and assignments for a given week, I hope you'll contribute to the forums and help out your fellow learners. While I won't have time to carefully monitor the discussion forums, I'll check in and answer questions whenever I find the time.
+
+SUGGESTED READINGS FOR WEEK 1: Abbreviations in suggested readings refer to the following textbooks:
+
+CLRS - Cormen, Leiserson, Rivest, and Stein, Introdution to Algorithms (3rd edition)
+DPV - Dasgupta, Papadimitriou, and Vazirani, Algorithms
+KT - Kleinberg and Tardos, Algorithm Design
+CLRS Section 24.1 and Chapter 25
+DPV Sections 4.6, 4.7, 6.1, 6.6
+KT Sections 6.8-6.10

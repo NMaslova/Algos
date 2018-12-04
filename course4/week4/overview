@@ -1,0 +1,10 @@
+LOCAL SEARCH : In the local search paradigm, one iteratively improves a solution using small (or "local") changes, until a "locally optimal" solution is reached. Local search algorithms often lack both running time and solution quality guarantees, but they can be unreasonably effective in practice. We introduce the paradigm via a concrete example --- the maximum cut problem --- and then discuss the general principles of local search. We conclude with an elegant randomized local search algorithm for the 2SAT problem, whose performance is intimately related to properties of random walks on the nonnegative integers.
+
+WIDER WORLD OF ALGORITHMS: These optional lectures discuss some topics that we didn't have time to cover, and are meant to encourage you to continue your algorithmic studies. For more, one starting point is the instructor's YouTube playlist on "A Second Course in Algorithms" at https://www.youtube.com/playlist?list=PLEGCF-WLh2RJh2yDxlJJjnKswWdoO8gAc (which documents the CS261 course at Stanford).
+
+HOMEWORK #4: The fourth and final problem set and programming assignment will reinforce your understanding of local search algorithms, and give you an opportunity to implement a 2SAT algorithm of your choice.
+
+SUGGESTED READINGS FOR WEEK 4:
+
+DPV Section 9.3
+KT Sections 12.1, 12.4, 12.5

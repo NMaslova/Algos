@@ -1,0 +1,13 @@
+DYNAMIC PROGRAMMING BOOT CAMP: This week is devoted to the dynamic programming design paradigm and a selection of
+killer applications: the famous Knapsack problem in Part XXVI, the sequence alignment problem in Part XXVII,
+and computing optimal binary search trees in Part XXVIII.
+
+HOMEWORK #4: The fourth problem set and programming assignment reinforce the concepts and algorithms studied in
+the lectures, and the programming assignment asks you to implement a dynamic programming algorithm for the Knapsack
+problem.
+
+SUGGESTED READINGS FOR WEEK 3:
+
+CLRS Chapter 15
+DPV Chapter 6
+KT Sections 6.3-6.6

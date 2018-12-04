@@ -1,0 +1,12 @@
+HUFFMAN CODES: Everybody loves compression. It means more songs on your smartphone, faster downloads, and so on. Huffman coding is a fundamental type of lossless compression, used for example in the MP3 standard. In these videos we'll learn about the optimality of Huffman codes, and a blazingly fast greedy algorithm for computing them.
+
+DYNAMIC PROGRAMMING: This week also introduces the dynamic programming design paradigm; next week we'll see a selection of killer applications. For now, we content ourselves with the development of a linear-time algorithm for a relatively simple problem, computing a maximum-weight independent set of a path graph. We conclude the week by zooming out and identifying the key principles of dynamic programming.
+
+HOMEWORK #3: The third problem set and programming assignment reinforce the concepts and algorithms studied in the lectures, and the programming assignment asks you to implement the greedy algorithm for Huffman coding and the dynamic programming algorithm for finding a maximum-weight independent set of a path.
+
+SUGGESTED READINGS FOR WEEK 3:
+
+CLRS Chapter 16 (Section 3) and Chapter 15 (Section 3)
+DPV Sections 5.2 and 6.7
+KT Sections 4.8, 6.1, 6.2
+SW Section 5.5

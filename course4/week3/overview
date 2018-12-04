@@ -1,0 +1,9 @@
+APPROXIMATION ALGORITHMS: NP-complete problems require compromises. If you insist on polynomial running time (and don't plan on proving that P=NP), then you need to relax correctness. The best-case scenario is a fast algorithm that produces a solution that is guaranteed to be close to an optimal one. We pursue this approach using the Knapsack problem as a case study. We use the greedy algorithm design paradigm to come up with a pretty good heuristic, and the dynamic programming algorithm design paradigm to develop a heuristic that achieves the full spectrum of running time vs. accuracy trade-offs.
+
+HOMEWORK #3: The third problem set will reinforce your understanding of approximation algorithms, while the third programming assignment revisits an old friend (TSP) from the perspective of fast heuristics.
+
+SUGGESTED READINGS FOR WEEK 3:
+
+CLRS Sections 35.1-35.3
+DPV Section 9.2
+KT Sections 11.1-11.3, 11.8

@@ -1,0 +1,10 @@
+SUMMARY: Week 1 is all about graph search and its applications (section X). We'll cover a selection of fundamental
+primitives for reasoning about graphs. One very cool aspect of this material is that all of the algorithms that we'll
+cover are insanely fast (linear time with small constants); and, it can be quite subtle to understand why they work!
+The culmination of these lectures --- computing the strongly connected components of a directed graph with just two
+passes of depth-first search --- vividly illustrates the point that fast algorithms often require deep insight
+into the structure of the problem that you're solving. There are also lecture notes for this last topic (available
+for download underneath the videos). (If you're feeling REALLY motivated, you might read up on Tarjan's earlier
+algorithm for computing SCCs that needs only a single DFS pass!)
+
+SUGGESTED READINGS FOR WEEK 1: Algorithms Illuminated (Part 2), Chapters 7 and 8.

@@ -1,0 +1,14 @@
+KRUSKAL'S MST ALGORITHM: Last week we covered Prim's MST algorithm and a blazingly fast implementation of it. There are several reasons for studying a second greedy MST algorithm, due to Kruskal. First, it's a beautiful algorithm, worthy of a greatest hits compilation. Second, to obtain a super-fast implementation of it, we'll need to learn about the simple but fundamental "Union-Find" data structure. The third reason is covered in the next section...
+
+CLUSTERING: Clustering is an important form of unsupervised learning (i.e., extracting patterns from unlabeled data). These two videos discuss how Kruskal's MST algorithm suggests flexible and useful greedy approaches to clustering problems.
+
+UNION-FIND LECTURES: This is purely optional material about advanced implementations and analysis of the union-find data structure. For those of you looking for some seriously next-level (but beautiful) material, check it out when you get a chance.
+
+HOMEWORK #2: The second problem set is all about MSTs. The second programming assignment asks you to implement the greedy clustering algorithm from lecture. For part (a), a straightforward implementation should suffice. Part (b) involves a graph that is likely too big to fit in your computer's memory, so answering this part might take some ingenuity.
+
+SUGGESTED READINGS FOR WEEK 2:
+
+CLRS Chapter 21 and Chapter 23 (Section 2)
+DPV Sections 5.1.3 and 5.1.4
+KT Sections 4.5-4.7
+SW Sections 1.5 and 4.3
